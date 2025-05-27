@@ -1,0 +1,1 @@
+{"FileId":"3b29c0a1-3e54-47ef-a7c3-6336d472d5ac","ParagraphCount":1,"WordCount":1,"CharCount":3,"CloudImagePath":"3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png","AnalyzedAt":"2025-05-27T12:46:57.2032125Z"}

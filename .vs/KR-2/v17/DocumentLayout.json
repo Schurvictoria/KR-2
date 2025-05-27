@@ -1,0 +1,1498 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileAnalysisProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Controllers\\FileAnalysisProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileStorageProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Controllers\\FileStorageProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Controllers\\FileUploadRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Controllers\\FileUploadResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\ApiGateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\SwaggerFileOperationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway\\SwaggerFileOperationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway.Tests\\ApiGateway.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ApiGateway.Tests\\ApiGateway.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\AnalysisResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Models\\AnalysisResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\FileMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Models\\FileMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Common\\Common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\FileStorageHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Utils\\FileStorageHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HashHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Utils\\HashHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HttpClientFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Utils\\HttpClientFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\FileAnalyseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Services\\FileAnalyseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\AnalysisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Controllers\\AnalysisController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\PlagiarismController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Controllers\\PlagiarismController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\FileAnalysisService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService\\FileAnalysisService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileAnalysisService.Tests\\FileAnalysisServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Application\\Dtos\\UploadResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\IFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Application\\Services\\IFileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\FileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Application\\Services\\FileStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Controllers\\FilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Controllers\\FilesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\FileStoringService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\FileStoringService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\FileStoringService.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService.Tests\\FileStoringService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService.Tests\\FileStoringService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Controllers\\CloudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Controllers\\CloudController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\CloudRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Models\\CloudRequestDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\WordDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Models\\WordDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\IWordCloudeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Services\\IWordCloudeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\WordCloudeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Services\\WordCloudeService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\WordCloudService.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\WordCloudService.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService\\WordCloudService.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService.Tests\\WordCloudService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WordCloudService.Tests\\WordCloudService.Tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\vcs.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.idea\\.idea.KR-2\\.idea\\vcs.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\encodings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.idea\\.idea.KR-2\\.idea\\encodings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\indexLayout.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.idea\\.idea.KR-2\\.idea\\indexLayout.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 83,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiGateway.csproj.user",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj.user",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj.user",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj.user",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-27T19:23:26.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.http",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.http",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.http",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T19:23:25.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiGateway.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway.Tests\\ApiGateway.Tests.csproj",
+              "RelativeDocumentMoniker": "ApiGateway.Tests\\ApiGateway.Tests.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway.Tests\\ApiGateway.Tests.csproj",
+              "RelativeToolTip": "ApiGateway.Tests\\ApiGateway.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:23:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AnalysisResult.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\AnalysisResult.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\AnalysisResult.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\AnalysisResult.cs",
+              "RelativeToolTip": "Common\\Models\\AnalysisResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:22:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FileMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\FileMetadata.cs",
+              "RelativeDocumentMoniker": "Common\\Models\\FileMetadata.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Models\\FileMetadata.cs",
+              "RelativeToolTip": "Common\\Models\\FileMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:22:00.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:21:58.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FileStorageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\FileStorageHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utils\\FileStorageHelper.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\FileStorageHelper.cs",
+              "RelativeToolTip": "Core\\Utils\\FileStorageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:21:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utils\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HashHelper.cs",
+              "RelativeToolTip": "Core\\Utils\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:21:28.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HttpClientFactory.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HttpClientFactory.cs",
+              "RelativeDocumentMoniker": "Core\\Utils\\HttpClientFactory.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Utils\\HttpClientFactory.cs",
+              "RelativeToolTip": "Core\\Utils\\HttpClientFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Core.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:20:56.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AnalysisResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Dtos\\AnalysisResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:52.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CloudRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Dtos\\CloudRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:50.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlagiarismResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:48.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ShinglingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Helpers\\ShinglingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FileAnalyseService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\FileAnalyseService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Services\\FileAnalyseService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\FileAnalyseService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Services\\FileAnalyseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:11.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IFileAnalyseService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs",
+              "RelativeToolTip": "FileAnalysisService\\Application\\Services\\IFileAnalyseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:20:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AnalysisController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\AnalysisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:19:45.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PlagiarismController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\PlagiarismController.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Controllers\\PlagiarismController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Controllers\\PlagiarismController.cs",
+              "RelativeToolTip": "FileAnalysisService\\Controllers\\PlagiarismController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:19:37.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FileStorerHttpAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Adapters\\FileStorerHttpAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:19:35.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WordCloudHttpAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Adapters\\WordCloudHttpAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:19:32.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AnalysisDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs",
+              "RelativeToolTip": "FileAnalysisService\\Infrastructure\\Persistence\\AnalysisDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:19:30.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileAnalysisService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:19:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png",
+              "RelativeDocumentMoniker": "FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png",
+              "RelativeToolTip": "FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-27T19:19:11.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt",
+              "RelativeDocumentMoniker": "FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt",
+              "RelativeToolTip": "FileAnalysisService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.png.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T19:19:07.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt",
+              "RelativeDocumentMoniker": "FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt",
+              "RelativeToolTip": "FileAnalysisService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.png.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T19:18:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.Development.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:18:50.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileAnalysisService\\appsettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\appsettings.json",
+              "RelativeToolTip": "FileAnalysisService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:18:47.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileAnalysisService\\Dockerfile",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\Dockerfile",
+              "RelativeToolTip": "FileAnalysisService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T19:18:46.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "FileAnalysisService.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeDocumentMoniker": "FileAnalysisService\\FileAnalysisService.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj",
+              "RelativeToolTip": "FileAnalysisService\\FileAnalysisService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:18:42.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "FileAnalysisService.csproj.user",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj.user",
+              "RelativeDocumentMoniker": "FileAnalysisService\\FileAnalysisService.csproj.user",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService\\FileAnalysisService.csproj.user",
+              "RelativeToolTip": "FileAnalysisService\\FileAnalysisService.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-27T19:18:39.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FileAnalysisService.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj",
+              "RelativeDocumentMoniker": "FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj",
+              "RelativeToolTip": "FileAnalysisService.Tests\\FileAnalysisService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:17:45.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "FileAnalysisServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisServiceTests.cs",
+              "RelativeDocumentMoniker": "FileAnalysisService.Tests\\FileAnalysisServiceTests.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileAnalysisService.Tests\\FileAnalysisServiceTests.cs",
+              "RelativeToolTip": "FileAnalysisService.Tests\\FileAnalysisServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:44.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UploadResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:35.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IFileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\IFileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Services\\IFileStorageService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\IFileStorageService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Services\\IFileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:16:10.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FileStoringService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:14:40.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.Development.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:14:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.json",
+              "RelativeDocumentMoniker": "FileStoringService\\appsettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\appsettings.json",
+              "RelativeToolTip": "FileStoringService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:14:21.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Dockerfile",
+              "RelativeDocumentMoniker": "FileStoringService\\Dockerfile",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Dockerfile",
+              "RelativeToolTip": "FileStoringService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T19:14:19.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "FileStoringService.csproj.user",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj.user",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.csproj.user",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj.user",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-27T19:14:15.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "FileStoringService.http",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.http",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.http",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.http",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T19:14:11.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "FileStoringService.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "RelativeDocumentMoniker": "FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "RelativeToolTip": "FileStoringService.Tests\\FileStoringService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:13:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WordCloudService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WordCloudService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:09:46.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WordCloudService\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.Development.json",
+              "RelativeToolTip": "WordCloudService\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:09:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Dockerfile",
+              "RelativeDocumentMoniker": "WordCloudService\\Dockerfile",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Dockerfile",
+              "RelativeToolTip": "WordCloudService\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T19:09:19.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.json",
+              "RelativeDocumentMoniker": "WordCloudService\\appsettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\appsettings.json",
+              "RelativeToolTip": "WordCloudService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:09:17.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "WordCloudService.http",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.http",
+              "RelativeDocumentMoniker": "WordCloudService\\WordCloudService.http",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.http",
+              "RelativeToolTip": "WordCloudService\\WordCloudService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T19:09:06.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "WordCloudService.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService.Tests\\WordCloudService.Tests.csproj",
+              "RelativeDocumentMoniker": "WordCloudService.Tests\\WordCloudService.Tests.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService.Tests\\WordCloudService.Tests.csproj",
+              "RelativeToolTip": "WordCloudService.Tests\\WordCloudService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:09:03.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.Development.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:05:15.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\9c63ac5a-2d97-4e9a-800e-5ccb159c7562.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:55:11.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\b5d5cb9a-feaa-4be8-bd71-5f6a3fd114a9.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:54:54.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\3b29c0a1-3e54-47ef-a7c3-6336d472d5ac.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:54:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\9b909f4b-2b46-4e2a-8d1f-20bbd0573857.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:54:52.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "82e81ba7-f682-4f9e-b9be-1804d25da256.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\82e81ba7-f682-4f9e-b9be-1804d25da256.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:54:51.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "511b0846-0571-4a5e-8358-eec8a7b19d1b.txt",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt",
+              "RelativeDocumentMoniker": "FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt",
+              "RelativeToolTip": "FileStoringService\\storage\\511b0846-0571-4a5e-8358-eec8a7b19d1b.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-27T18:54:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Persistence\\FileDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:54:39.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T18:53:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "encodings.xml",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\encodings.xml",
+              "RelativeDocumentMoniker": ".idea\\.idea.KR-2\\.idea\\encodings.xml",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\encodings.xml",
+              "RelativeToolTip": ".idea\\.idea.KR-2\\.idea\\encodings.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-27T18:52:06.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CloudController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Controllers\\CloudController.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Controllers\\CloudController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Controllers\\CloudController.cs",
+              "RelativeToolTip": "WordCloudService\\Controllers\\CloudController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "CloudRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\CloudRequestDto.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Models\\CloudRequestDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\CloudRequestDto.cs",
+              "RelativeToolTip": "WordCloudService\\Models\\CloudRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "WordDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\WordDto.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Models\\WordDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Models\\WordDto.cs",
+              "RelativeToolTip": "WordCloudService\\Models\\WordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:11.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IWordCloudeService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\IWordCloudeService.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Services\\IWordCloudeService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\IWordCloudeService.cs",
+              "RelativeToolTip": "WordCloudService\\Services\\IWordCloudeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "WordCloudeService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\WordCloudeService.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Services\\WordCloudeService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Services\\WordCloudeService.cs",
+              "RelativeToolTip": "WordCloudService\\Services\\WordCloudeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:04.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Program.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Program.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Program.cs",
+              "RelativeToolTip": "WordCloudService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:51:01.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Startup.cs",
+              "RelativeDocumentMoniker": "WordCloudService\\Startup.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\Startup.cs",
+              "RelativeToolTip": "WordCloudService\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:50:51.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "WordCloudService.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj",
+              "RelativeDocumentMoniker": "WordCloudService\\WordCloudService.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj",
+              "RelativeToolTip": "WordCloudService\\WordCloudService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T18:50:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "WordCloudService.csproj.user",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj.user",
+              "RelativeDocumentMoniker": "WordCloudService\\WordCloudService.csproj.user",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\WordCloudService\\WordCloudService.csproj.user",
+              "RelativeToolTip": "WordCloudService\\WordCloudService.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-27T18:50:48.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "FileStoringService\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:25:59.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PlagiarismResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Dtos\\PlagiarismResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:34:26.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Application\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:36:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FileStoringService.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeDocumentMoniker": "FileStoringService\\FileStoringService.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\FileStoringService.csproj",
+              "RelativeToolTip": "FileStoringService\\FileStoringService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T11:36:09.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Startup.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Startup.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Startup.cs",
+              "RelativeToolTip": "FileStoringService\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:23:54.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Program.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Program.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Program.cs",
+              "RelativeToolTip": "FileStoringService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:23:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IFileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Repositories\\IFileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:23:32.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "FileRepository.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs",
+              "RelativeToolTip": "FileStoringService\\Infrastructure\\Repositories\\FileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:19:28.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "vcs.xml",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\vcs.xml",
+              "RelativeDocumentMoniker": ".idea\\.idea.KR-2\\.idea\\vcs.xml",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\vcs.xml",
+              "RelativeToolTip": ".idea\\.idea.KR-2\\.idea\\vcs.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-27T11:00:23.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "indexLayout.xml",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\indexLayout.xml",
+              "RelativeDocumentMoniker": ".idea\\.idea.KR-2\\.idea\\indexLayout.xml",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\.idea\\.idea.KR-2\\.idea\\indexLayout.xml",
+              "RelativeToolTip": ".idea\\.idea.KR-2\\.idea\\indexLayout.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-05-27T11:00:21.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\appsettings.json",
+              "RelativeToolTip": "ApiGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T08:39:31.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-27T08:38:36.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "ApiGateway\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\ApiGateway.csproj",
+              "RelativeToolTip": "ApiGateway\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T08:11:24.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileUploadResponse.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadResponse.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\FileUploadResponse.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadResponse.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\FileUploadResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:54:29.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SwaggerFileOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\SwaggerFileOperationFilter.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\SwaggerFileOperationFilter.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\SwaggerFileOperationFilter.cs",
+              "RelativeToolTip": "ApiGateway\\SwaggerFileOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:22:12.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:19:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileStorageProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileStorageProxyController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\FileStorageProxyController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileStorageProxyController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\FileStorageProxyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:19:45.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileAnalysisProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileAnalysisProxyController.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\FileAnalysisProxyController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileAnalysisProxyController.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\FileAnalysisProxyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:19:34.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Startup.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Startup.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Startup.cs",
+              "RelativeToolTip": "ApiGateway\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T21:19:25.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Dockerfile",
+              "RelativeToolTip": "ApiGateway\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-26T21:17:47.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileUploadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadRequest.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Controllers\\FileUploadRequest.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\VS-KPO-KR-2\\HSE-Software-Design-KR-2\\ApiGateway\\Controllers\\FileUploadRequest.cs",
+              "RelativeToolTip": "ApiGateway\\Controllers\\FileUploadRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:55:29.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

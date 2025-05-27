@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService.Tests\\FileStoringServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService.Tests\\FileStoringServiceTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Controllers\\FileAnalysisProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\Controllers\\FileAnalysisProxyController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\ApiGateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\ApiGateway.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\ApiGateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\SwaggerFileOperationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\SwaggerFileOperationFilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GatewayApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FileStoringService\\Application\\Dtos\\UploadResponseDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 120,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-27T19:33:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileStoringServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService.Tests\\FileStoringServiceTests.cs",
+              "RelativeDocumentMoniker": "FileStoringService.Tests\\FileStoringServiceTests.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService.Tests\\FileStoringServiceTests.cs",
+              "RelativeToolTip": "FileStoringService.Tests\\FileStoringServiceTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:32:39.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileAnalysisProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Controllers\\FileAnalysisProxyController.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\Controllers\\FileAnalysisProxyController.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Controllers\\FileAnalysisProxyController.cs",
+              "RelativeToolTip": "GatewayApi\\Controllers\\FileAnalysisProxyController.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:31:56.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GatewayApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GatewayApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:30:29.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiGateway.http",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.http",
+              "RelativeDocumentMoniker": "GatewayApi\\ApiGateway.http",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.http",
+              "RelativeToolTip": "GatewayApi\\ApiGateway.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T19:29:49.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GatewayApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.Development.json",
+              "RelativeToolTip": "GatewayApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:29:47.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GatewayApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\appsettings.json",
+              "RelativeToolTip": "GatewayApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T19:29:15.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiGateway.csproj.user",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj.user",
+              "RelativeDocumentMoniker": "GatewayApi\\ApiGateway.csproj.user",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj.user",
+              "RelativeToolTip": "GatewayApi\\ApiGateway.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-05-27T19:29:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj",
+              "RelativeDocumentMoniker": "GatewayApi\\ApiGateway.csproj",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\ApiGateway.csproj",
+              "RelativeToolTip": "GatewayApi\\ApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T19:28:58.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SwaggerFileOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\SwaggerFileOperationFilter.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\SwaggerFileOperationFilter.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\SwaggerFileOperationFilter.cs",
+              "RelativeToolTip": "GatewayApi\\SwaggerFileOperationFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:28:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Startup.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Startup.cs",
+              "RelativeToolTip": "GatewayApi\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:28:49.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Program.cs",
+              "RelativeDocumentMoniker": "GatewayApi\\Program.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Program.cs",
+              "RelativeToolTip": "GatewayApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:28:42.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Dockerfile",
+              "RelativeDocumentMoniker": "GatewayApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\GatewayApi\\Dockerfile",
+              "RelativeToolTip": "GatewayApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T19:27:54.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UploadResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "RelativeDocumentMoniker": "FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "ToolTip": "C:\\Users\\schur\\OneDrive\\Desktop\\SE-CW-2\\FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "RelativeToolTip": "FileStoringService\\Application\\Dtos\\UploadResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T19:26:46.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

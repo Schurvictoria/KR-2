@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FileAnalysisService",
+    "\\FileStoringService\\Application\\Dtos",
+    "\\FileStoringService\\Application\\Services",
+    "\\FileStoringService\\Controllers",
+    "\\GatewayApi\\Controllers",
+    "\\GatewayApi\\Properties",
+    "\\WordCloudService\\Properties"
+  ],
+  "SelectedNode": "\\docker-compose.yml",
+  "PreviewInSolutionExplorer": true
+}
