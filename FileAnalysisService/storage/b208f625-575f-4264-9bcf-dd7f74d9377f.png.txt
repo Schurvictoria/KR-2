@@ -1,0 +1,1 @@
+{"FileId":"b208f625-575f-4264-9bcf-dd7f74d9377f","ParagraphCount":1,"WordCount":2,"CharCount":13,"CloudImagePath":"b208f625-575f-4264-9bcf-dd7f74d9377f.png","AnalyzedAt":"2025-06-11T20:59:44.8928047Z"}

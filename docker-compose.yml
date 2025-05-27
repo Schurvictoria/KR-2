@@ -9,10 +9,12 @@ services:
       POSTGRES_USER: user
       POSTGRES_PASSWORD: password
       POSTGRES_DB: filestore
+      POSTGRES_MULTIPLE_DATABASES: analysis
     ports:
       - "15432:5432"
     volumes:
       - pgdata:/var/lib/postgresql/data
+      - ./init-multiple-dbs.sh:/docker-entrypoint-initdb.d/init-multiple-dbs.sh
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U user -d filestore"]
       interval: 10s

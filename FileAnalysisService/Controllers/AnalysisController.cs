@@ -21,6 +21,7 @@ namespace FileAnalysisService.Controllers
         }
 
         [HttpGet("analyze/{id}")]
+        [HttpPost("analyze/{id}")]
         public async Task<IActionResult> Analyze(Guid id)
         {
             _logger.LogInformation("Analyze called for id={Id}", id);

@@ -17,13 +17,14 @@ namespace WordCloudService.Services
 
         public async Task<byte[]> GenerateAsync(CloudRequestDto request)
         {
+            var words = request.Words.Select(w => new { text = w.Text, value = w.Weight }).ToArray();
+            
             var config = new
             {
                 type = "wordCloud",
                 data = new
                 {
-                    labels = request.Words.Select(w => w.Text),
-                    datasets = new[] { new { label = "Word Cloud", data = request.Words.Select(w => w.Weight) } }
+                    words = words
                 },
                 options = new
                 {
@@ -33,15 +34,17 @@ namespace WordCloudService.Services
                         text = request.Title ?? "Word Cloud",
                         font = new { size = request.TitleFontSize, family = request.FontFamily }
                     },
-                    backgroundColor = request.BackgroundColor,
                     rotation = new { from = request.RotationFrom, to = request.RotationTo, orientations = request.OrientationCount },
-                    colors = request.Colors
+                    colors = request.Colors,
+                    minRotation = request.RotationFrom,
+                    maxRotation = request.RotationTo,
+                    fontFamily = request.FontFamily,
+                    fontSizes = new[] { 14, 60 }
                 }
             };
 
             var jsonConfig = JsonSerializer.Serialize(config);
-            var encoded = Uri.EscapeDataString(jsonConfig);
-            var url = $"/chart?width={request.Width}&height={request.Height}&format={request.Format}&backgroundColor={Uri.EscapeDataString(request.BackgroundColor)}&chart={encoded}";
+            var url = $"/chart?width={request.Width}&height={request.Height}&format={request.Format}&c={Uri.EscapeDataString(jsonConfig)}";
             return await _httpClient.GetByteArrayAsync(url);
         }
     }
